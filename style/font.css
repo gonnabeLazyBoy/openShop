@@ -1,0 +1,10 @@
+@font-face{
+    font-family: "NotoSansRegular";
+    src: url(../fonts/NotoSans-Bold.ttf);
+    font-weight: 700;
+}
+@font-face{
+    font-family: "NotoSansRegular";
+    src: url(../fonts/NotoSans-Regular.ttf);
+    font-weight: 400;
+}
